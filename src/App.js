@@ -42,7 +42,7 @@ const App = () => {
     <div className="App" style={{ backgroundColor: "" }}>
       <div className="container mt-5">
         <h3 className="font-weight-bold ">
-          Stock Profile & Loss Calculator 💹
+          Stock Profit & Loss Calculator 💹
         </h3>
       </div>
       <div className="container mt-4">
